@@ -20,7 +20,7 @@
   "devDependencies": {
     "@types/async": "^3.0.1",
     "@types/cheerio": "^0.22.11",
-    "@types/eslint": "^4.16.6",
+    "@types/eslint": "^6.1.1",
     "@types/progress": "^2.0.3",
     "@types/puppeteer": "^1.12.3",
     "@types/rimraf": "^2.0.2",
