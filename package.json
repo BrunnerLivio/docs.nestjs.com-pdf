@@ -22,7 +22,7 @@
     "@types/cheerio": "^0.22.13",
     "@types/eslint": "^6.1.1",
     "@types/progress": "^2.0.3",
-    "@types/puppeteer": "^1.12.3",
+    "@types/puppeteer": "^1.19.1",
     "@types/rimraf": "^2.0.2",
     "@types/sanitize-filename": "^1.6.3",
     "@typescript-eslint/eslint-plugin": "^1.9.0",
